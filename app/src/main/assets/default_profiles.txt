@@ -1,0 +1,2 @@
+# superproxy:proxylist:v1
+http://eGkS5Oro:8L91wYMNsD@91.210.28.67:50100 "Стандартный профиль" *
